@@ -23,8 +23,7 @@ int main()
                 p += p1;
 	    }
             else
-            {  
-                putpixel(x, y, WHITE);  
+            {   
                 y++;  
                 p += p2;  
             }  
